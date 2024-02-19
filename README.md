@@ -1,3 +1,5 @@
+Deploy do projeto: https://alurabooks-lemon-two.vercel.app/
+
 Projeto do curso de Formação Front-End da Alura
 Sobre o Projeto
 Este projeto de site foi desenvolvido como parte da Formação Inicial de Front-End oferecida pelo portal Alura, marcando meu primeiro passo significativo na jornada de aprendizado em desenvolvimento web. Com uma abordagem prática, este projeto abrange os fundamentos de HTML 5 e CSS 3, construindo uma base sólida que serve de ponto de partida para futuras explorações em programação Front-End e, eventualmente, Back-End.
